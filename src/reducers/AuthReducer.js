@@ -1,9 +1,9 @@
 import {
     EMAIL_CHANGED,
     PASSWORD_CHANGED,
+    LOGIN_USER,
     LOGIN_USER_SUCCESS,
-    LOGIN_USER_FAIL,
-    LOGIN_USER
+    LOGIN_USER_FAIL
 } from '../actions/types';
 
 const INITIAL_STATE = {
